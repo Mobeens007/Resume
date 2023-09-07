@@ -1,6 +1,6 @@
 # MOBEEN AKHTAR #
 
-<img src="Profile Picture-1.jpg" alt="drawing" width="200"/>
+<img src="Profil.jpg" alt="drawing" width="200"/>
 
 ## Education ##
 1. [The University of the Punjab](http://www.pu.edu.pk/) (BS CS)
